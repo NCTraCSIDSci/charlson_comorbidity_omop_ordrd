@@ -62,6 +62,9 @@ Specific notes on ICD codes:
 # Authors
 Josh Fuchs and Nathan Foster developed this code. 
 
+# Support
+The project described was supported by the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number UM1TR004406. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
+
 # References
 - Charlson, M. E., P. Pompei, K. L. Ales, and C. R. MacKenzie. 1987. “A New Method of Classifying Prognostic Comorbidity in Longitudinal Studies: Development and Validation.” Journal of Chronic Diseases 40 (5): 373–83.
 - Fortin, Stephen P. 2021. “Predictive Performance of the Charlson Comorbidity Index: SNOMED CT Disease Hierarchy Versus International Classification of Diseases.” In 2021 OHDSI Global Symposium Showcase. https://www.ohdsi.org/wp-content/uploads/2021/08/38-Predictive-Performance-of-the-Charlson-Comorbidity-Index-SNOMED-CT-Disease-Hierarchy-Versus-International-Classification-of-Diseases_2021symposium.pdf.
