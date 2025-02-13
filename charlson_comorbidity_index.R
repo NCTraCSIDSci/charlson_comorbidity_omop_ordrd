@@ -5,10 +5,10 @@
 # Chapel Hill de-identified OMOP Research Data Repository, ORDR(D). Please see
 # the README in the repo with important notes, clarifications, and assumptions. 
 
--- Author: Nathan Foster
+# Author: Nathan Foster
 
--- Copyright 2025, The University of North Carolina at Chapel Hill. Permission is granted to use in accordance with the MIT license.
--- The code is licensed under the open-source MIT license.
+# Copyright 2025, The University of North Carolina at Chapel Hill. Permission is granted to use in accordance with the MIT license.
+# The code is licensed under the open-source MIT license.
 
 
 # Set username and password
