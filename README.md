@@ -62,6 +62,9 @@ Specific notes on ICD codes:
 # Authors
 Josh Fuchs and Nathan Foster developed this code. 
 
+# Citing This Repo
+If you use this software in your work, please cite it using the CITATION.cff file.
+
 # Support
 The project described was supported by the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number UM1TR004406. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
 
